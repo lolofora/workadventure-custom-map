@@ -1,6 +1,11 @@
 { "compressionlevel":-1,
  "editorsettings":
     {
+     "chunksize":
+        {
+         "height":32,
+         "width":32
+        },
      "export":
         {
          "target":"."
@@ -16,7 +21,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":44,
          "x":0,
          "y":0
@@ -28,7 +33,7 @@
          "name":"ground",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":44,
          "x":0,
          "y":0
@@ -40,7 +45,7 @@
          "name":"wall",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":44,
          "x":0,
          "y":0
@@ -58,7 +63,7 @@
                  "value":"maps.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":44,
          "x":0,
          "y":0
@@ -70,7 +75,7 @@
          "name":"benchs",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":44,
          "x":0,
          "y":0
@@ -82,7 +87,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
