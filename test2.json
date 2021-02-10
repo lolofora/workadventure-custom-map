@@ -12666,7 +12666,7 @@
        "nextobjectid": 1,
        "orientation": "orthogonal",
        "renderorder": "right-down",
-       "tiledversion": "1.4.3",
+       "tiledversion": "1.3.3",
        "tileheight": 32,
        "tilesets": [
               {
